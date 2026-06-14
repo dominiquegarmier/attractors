@@ -1,0 +1,22 @@
+/target/
+/out/
+
+# Local OS/editor state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local environment/tooling state
+.env
+.env.*
+!.env.example
+.direnv/
+.venv/
+
+# Logs and scratch files
+*.log
+/tmp/
